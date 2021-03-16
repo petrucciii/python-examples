@@ -1,2 +1,2 @@
-# spiral
-epic spiral with python turtle
+# py examples
+some python examples
